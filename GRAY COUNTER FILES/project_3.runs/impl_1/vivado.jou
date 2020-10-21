@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:10 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Sat Mar 30 18:07:33 2019
+# Process ID: 11443
+# Current directory: /home/inf2015/dchristodoulou/CE435/LAB3/Part3_new/project_3.runs/impl_1
+# Command line: vivado -log lab2_block_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source lab2_block_wrapper.tcl -notrace
+# Log file: /home/inf2015/dchristodoulou/CE435/LAB3/Part3_new/project_3.runs/impl_1/lab2_block_wrapper.vdi
+# Journal file: /home/inf2015/dchristodoulou/CE435/LAB3/Part3_new/project_3.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source lab2_block_wrapper.tcl -notrace
